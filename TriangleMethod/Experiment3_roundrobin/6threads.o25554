@@ -1,0 +1,4 @@
+cn2
+Numerical integration: [-4.000000, 4.000000], n = 10000000
+Elapsed time (sec.): 0.103618653025
+Speedup: 5.7800
